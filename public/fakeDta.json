@@ -1,0 +1,67 @@
+[
+    {
+        "schedule_time": "2021-05-17 12:39:29",
+        "slot": "L",
+        "item_date": "2021-05-18"
+    },
+    {
+        "schedule_time": "2021-05-17 12:47:53",
+        "slot": "D",
+        "item_date": "2021-05-18"
+    },
+    {
+        "schedule_time": "2021-05-18 11:47:53",
+        "slot": "D",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-18 13:55:22",
+        "slot": "D",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-19 16:09:15",
+        "slot": "L",
+        "item_date": "2021-05-20"
+    },
+    {
+        "schedule_time": "2021-05-19 16:11:55",
+        "slot": "L",
+        "item_date": "2021-05-20"
+    },
+    {
+        "schedule_time": "2021-05-18 16:39:45",
+        "slot": "L",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-18 16:55:42",
+        "slot": "D",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-18 17:35:30",
+        "slot": "L",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-18 20:35:30",
+        "slot": "L",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-21 20:35:30",
+        "slot": "L",
+        "item_date": "2021-05-22"
+    },
+    {
+        "schedule_time": "2021-05-18 20:35:30",
+        "slot": "L",
+        "item_date": "2021-05-19"
+    },
+    {
+        "schedule_time": "2021-05-20 20:35:30",
+        "slot": "L",
+        "item_date": "2021-05-21"
+    }
+]

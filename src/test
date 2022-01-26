@@ -1,0 +1,24 @@
+function filterData() {
+        const dates2 = [...dates];
+        const dataPoints2 = [...dataPoints];
+
+        //slice the array
+        let value1 = inputRef1.current.value;
+        let value2 = inputRef2.current.value;
+        const indexstartdate = dates2.indexOf(value1);
+        const indexenddate = dates2.indexOf(value2);
+        console.log(indexstartdate);
+        console.log(indexenddate);
+        //slice the array
+        const filterDate = dates2.slice(indexstartdate, indexenddate + 1);
+        const filterDataPoints = dataPoints2.slice(indexstartdate, indexenddate + 1);
+
+        console.log(filterDate, filterDataPoints);
+
+        //replace label in the chart
+        //HELP HERE!!!
+
+        setDates(filterDate);
+        setDataPoints(filterDataPoints);
+        // console.log(dates, dataPoints);
+    }
